@@ -19,3 +19,15 @@ module daimond_pattern;
     end 
     end 
    endmodule
+
+
+output :
+# KERNEL:  1 
+# KERNEL:  2 
+# KERNEL:  3 
+# KERNEL:  4 
+# KERNEL:  5 
+# KERNEL:  4 
+# KERNEL:  3 
+# KERNEL:  2 
+# KERNEL:  1 
